@@ -4,9 +4,9 @@
 ### Medical Student | Systems & AI Architect
 
 ```
-I'm a medical student with a parallel focus in low-level systems and on-device AI.
+MBBS student at RNT Medical College, Udaipur & BSc Computer Science at BITS Pilani (Coursera).
 I combine clinical domain knowledge with systems engineering to build private,
-local runtimes and Socratic cognitive tools.
+on-device runtimes and Socratic cognitive architectures.
 ```
 
 `kushchou.dev` &bull; [`github: @kush-chou`](https://github.com/kush-chou) &bull; `kushagra26407@gmail.com`
