@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kush Chouhan
+# Kushagra Choudhary
 ### Medical Student | Systems & AI Architect
 
 ```
@@ -116,5 +116,5 @@ A lightweight, terminal-aesthetic digital rain engine designed for clean visual 
 ---
 
 <div align="center">
-  <sub>Kush Chouhan &middot; <a href="https://kushchou.dev">kushchou.dev</a> &middot; 2026</sub>
+  <sub>Kushagra Choudhary &middot; <a href="https://kushchou.dev">kushchou.dev</a> &middot; 2026</sub>
 </div>
