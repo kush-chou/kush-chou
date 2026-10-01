@@ -1,117 +1,182 @@
-# The Software Factory
-### Autonomous Agentic Venture Syndicate & Systems Engineering Studio
-*Directed by [Kush Chouhan](https://github.com/kush-chou) · `kushchou.dev`*
+<div align="center">
 
----
-
-```
-                        [ CAPITAL & INFERENCE ALLOCATION ]
-                                        │
-                                        ▼
-                     ┌─────────────────────────────────────┐
-                     │       THE SOFTWARE FACTORY          │
-                     │    Agentic VC & Systems Syndicate   │
-                     └──────────────────┬──────────────────┘
-                                        │
-         ┌──────────────────────────────┼──────────────────────────────┐
-         ▼                              ▼                              ▼
-┌──────────────────┐          ┌──────────────────┐           ┌──────────────────┐
-│  EDGE RUNTIMES   │          │ SPATIAL SIM &    │           │ AUTONOMOUS MOATS │
-│  & LOCAL NPU     │          │ SOCRATIC ENGINES │           │ & TELEPHONY RAILS│
-├──────────────────┤          ├──────────────────┤           ├──────────────────┤
-│ • Sol (talktosol)│          │ • Tuition.app    │           │ • LeadDesk Voice │
-│ • sol-models     │          │ • Steam 3D Engine│           │ • SonicReport    │
-│ • LiteRT-LM RAG  │          │ • Adoptive-Prof  │           │ • YANGTNT (YAGNI)│
-└──────────────────┘          └──────────────────┘           └──────────────────┘
-```
-
----
-
-## 🏛️ Syndicate Thesis & Operating Mechanics
-
-**The Software Factory** is an agentic venture syndicate and systems engineering studio. Rather than burning venture capital on bloated developer headcounts and speculative SaaS runways, we treat inference compute and defensive namespace moats as sovereign balance-sheet assets.
-
-We deploy autonomous agent swarms (Sonnet planners, Gemini multimodal orchestrators, and Playwright headless deployment rails) to build, harden, and scale three distinct asset classes:
-
-1. **Sovereign Edge Runtimes**: Zero-cloud, privacy-guaranteed on-device intelligence executing natively on mobile NPUs and local hardware.
-2. **Spatial Simulation & Socratic Cognition**: Transforming passive LLM chats into high-fidelity 3D simulation engines and dialectic examination coaches distributed via Steam and web runtimes.
-3. **Deterministic Micro-Economics & Namespace Moats**: Autonomous discovery of mispriced namespace clusters, defense-prefix acquisition (`try`, `get`, `use`), and instant deployment of 3-file static MVPs targeting sub-60-day breakeven.
-
----
-
-## 🚀 Venture Portfolio & Active Deployments
-
-### 1. Edge Systems & Local NPU AI (The Hardware Tier)
-
-* **[Sol (`talktosol.app`)](https://github.com/kush-chou/sol)** — *Private On-Device AI Journal & Cognitive Companion*
-  * **Core Stack**: Gemma (2B / 4B E2B), Google AI Edge / LiteRT-LM, Jetpack Compose, MediaPipe, SQLite Vector Memory, Biometric Lock.
-  * **Architecture**: 100% offline, zero-cloud execution. Runs local semantic vector RAG with dynamic context window budgeting (2048–4096 tokens), circadian session compression, and adaptive tone synthesis.
-  * **Ecosystem Repositories**:
-    * [`sol`](https://github.com/kush-chou/sol) — Native Android application source.
-    * [`sol-models`](https://github.com/kush-chou/sol-models) — Optimized on-device model weights & quantizations.
-    * [`sol-cli`](https://github.com/kush-chou/sol-cli) — Terminal-native inference harness.
-    * [`sol-privacy`](https://github.com/kush-chou/sol-privacy) — Cryptographic and on-device privacy specifications.
-
----
-
-### 2. Spatial Simulation & Cognitive Engines (The Deep Domain Tier)
-
-* **[Tuition.app Ecosystem](https://github.com/kush-chou)** — *3D Medical Simulation Engine & Socratic Mastery Platform*
-  * **Domains**: `trytuition.app` · `gettuition.app` · `usetuition.app`
-  * **The Steam Simulation Engine**: A $40 AAA desktop simulation engine bringing interactive 3D spatial anatomy (forking Z-Anatomy open assets) into an agentic pairing loop. Features BYOK (Bring Your Own Key) zero-data-retention inference rails alongside high-performance agentic subscriptions.
-  * **Live Multimodal Orchestration**: Paired with Gemini 3.8 Live + Antigravity agent preview to guide students through real-time 45-minute deep-focus Socratic dissections, automated doubt generation, and user-generated concept syntheses.
-* **[Adoptive-Professor / Agitated Brahmagupta](https://github.com/kush-chou/med-NLM)** — *Clinical Examination Socratic Coach*
-  * **Core Stack**: Structured anatomical knowledge graphs, NLM reference engine, dynamic Mermaid graph priming, native TTS (`speak.py`).
-  * **Mechanics**: Refuses to output passive answer dumps. Enforces socratic dialectic pacing—guiding the student half a step forward per turn, testing edge-case derivations (brachial plexus root tracing, cranial nerve pathways), and actively verifying comprehension before progressing.
-
----
-
-### 3. Autonomous Namespace Moats & Micro-SaaS (The Venture Tier)
-
-* **[YANGTNT](https://github.com/kush-chou)** — *"You Are Not Gonna Need It" AI CLI Scaffolding Engine*
-  * **Domains**: `yangtnt.com` · `yangtnt.app`
-  * **Thesis**: Anti-bloat developer tool enforcing radical YAGNI principles, surgical diff generation, and deterministic fast-path execution.
-* **[The Namespace Syndicate Portfolio](https://github.com/kush-chou)**:
-  * `trytuition.app` / `gettuition.app` / `usetuition.app` — Higher-ed weed-out course mastery.
-  * `talktosol.app` — Flagship distribution portal for Sol on-device companion.
-  * `tryleaddesk.com` — Enterprise telephony voice agent.
-  * `ultrascribe.app` — High-throughput transcription & structured note synthesis.
-  * `matrixrain.app` — Minimalist high-density visual interfaces.
-  * `kushchou.dev` — Syndicate command center and developer portfolio.
-
----
-
-### 4. Telephony & Infrastructure Rails (The Communications Tier)
-
-* **[LeadDesk (`tryleaddesk.com`)](https://github.com/kush-chou)** — *Autonomous Telephony Gemini Voice Engine*
-  * **Architecture**: Ultra-low-latency bidirectional audio streaming bridge connecting telephony trunks directly to Gemini voice models for autonomous business dispatch and support triage.
-* **[SonicReport](https://github.com/kush-chou/sonic-report)** — *WhatsApp Gateway & Autonomous Telemetry Mesh*
-  * **Architecture**: Resilient headless WhatsApp ingestion pipeline executing automated report syntheses, edge-case failure mitigation, and automated document dispatches.
-* **[Antigrav-Jeva & Google Flow Director](https://github.com/kush-chou)** — *Agent Orchestration Control Plane*
-  * **Architecture**: Standardized harness pairing local shell execution with custom MCP tools, rulesets, and persistent agent workflows.
-
----
-
-## ⚡ Engineering Ethos & Principles
-
-* **Karpathy Minimal Diffs**: Intolerance for speculative abstractions or sprawling boilerplate. First-principles root cause diagnosis before code is authored.
-* **Torvalds Taste**: Elegant data layouts eliminate special-case branching. Systems are designed around data flows, not fragile wrapper logic.
-* **Visual Priming First**: Complex spatial, topological, and architectural models are visually anchored (`flowchart TD`) before textual deconstruction.
-* **Surgical Inference Hygiene**: Zero reasoning bloat on deterministic tasks. Direct-to-processor execution, prompt hygiene, and tight token allocations.
-
----
-
-## 🛠️ Stack Matrix
+# Kush Chouhan
+### Medical Student &middot; Systems & Agentic AI Architect
+**Founder, The Software Factory Syndicate** &middot; [`kushchou.dev`](https://kushchou.dev) &middot; [`@kush-chou`](https://github.com/kush-chou)
 
 ```
-Edge & NPU AI     : LiteRT-LM · Google AI Edge · Gemma 2B/4B · MediaPipe · Local SQLite Vector RAG
-Native Systems    : Kotlin · Android Jetpack Compose · Coroutines / Flow · Wireless ADB · Rust
-Agentic Swarms    : Gemini 3.8 Live / Flash-Lite · Anthropic Protocol · MCP Tools · Playwright Headless
-Web & Micro-Cloud : Cloudflare Workers · Vercel Edge · Tailwind CSS · KaTeX · Python
+I combine clinical medicine (MBBS) with deep systems engineering and on-device AI.
+Building sovereign edge runtimes, 3D spatial simulation engines, and Socratic cognitive architectures.
+```
+
+[Portfolio](#-active-projects--architectures) &bull; [Syndicate Thesis](#-the-software-factory-thesis) &bull; [Engineering Principles](#-engineering-ethos) &bull; [Contact](#-contact--dispatch)
+
+</div>
+
+---
+
+## 🧭 Visual System Architecture
+
+```
+                       [ DOMAIN KNOWLEDGE: CLINICAL MEDICINE (MBBS) ]
+                                            │
+                                            ▼
+                     ┌──────────────────────────────────────────────┐
+                     │            THE SOFTWARE FACTORY              │
+                     │    Agentic VC & Sovereign AI Syndicate       │
+                     └──────────────────────┬───────────────────────┘
+                                            │
+         ┌──────────────────────────────────┼──────────────────────────────────┐
+         ▼                                  ▼                                  ▼
+┌──────────────────────┐          ┌──────────────────────┐          ┌──────────────────────┐
+│  SOVEREIGN EDGE AI   │          │  SPATIAL SIMULATION  │          │  AUTONOMOUS MOATS    │
+│  & LOCAL NPU RUNTIME │          │  & SOCRATIC ENGINES  │          │  & TELEPHONY RAILS   │
+├──────────────────────┤          ├──────────────────────┤          ├──────────────────────┤
+│ • Sol (talktosol)    │          │ • Tuition.app (Steam)│          │ • LeadDesk Voice     │
+│ • sol-models / CLI   │          │ • Agitated-Brahmagupta│         │ • SonicReport        │
+│ • LiteRT-LM / Gemma  │          │ • Adoptive-Professor │          │ • YANGTNT (YAGNI)    │
+└──────────────────────┘          └──────────┬───────────┘          └──────────────────────┘
+                                             │ (Post-Core Expansion)
+                                             ▼
+                               ┌───────────────────────────┐
+                               │ PROFESSIONAL APP HARNESS  │
+                               │ Blender • CAD • NLEs • IDE│
+                               └───────────────────────────┘
 ```
 
 ---
+
+## 🔬 Active Projects & Architectures
+
+### 1. Spatial Simulation & Clinical Socratic Cognition (The Core Engine)
+
+> Modeled directly around rigorous MBBS curriculum demands, then extended horizontally to professional creative and engineering software.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Tuition.app (Steam Engine)** `closed source` `3d sim` `steam`
+*AAA 3D Simulation Engine & Multimodal Dissection Platform*
+* **Stack**: C++ / Desktop Runtime &bull; Gemini 3.8 Live &bull; Antigravity Agent Orchestrator &bull; WebRTC
+* **Core Mechanism**: Forks open-source 3D spatial assets (Z-Anatomy) into a $40 AAA simulation engine. Replaces flat 2D flashcards with interactive 3D anatomical exploration paired with a live Socratic copilot.
+* **Inference Model**: BYOK (Bring-Your-Own-Key) private zero-retention harness alongside high-performance hosted agent tiers.
+* **Domains**: [`trytuition.app`](https://trytuition.app) &bull; [`gettuition.app`](https://gettuition.app) &bull; [`usetuition.app`](https://usetuition.app)
+
+</td>
+<td width="50%" valign="top">
+
+### **Adoptive-Professor / Agitated Brahmagupta** `core engine` `nlm`
+*Medical Examination Socratic Coach & Knowledge Graph*
+* **Stack**: Python &bull; NLM Reference Engine &bull; Mermaid AST Priming &bull; `speak.py` Native TTS
+* **Core Mechanism**: Replaces passive answer generation with strict dialectic pacing. The engine leads the student half a step forward per turn, testing edge-case anatomical derivations (brachial plexus root tracing, cranial nerves) with visual diagrams before textual elaboration.
+* **Repository**: [`kush-chou/med-NLM`](https://github.com/kush-chou/med-NLM)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔭 **The Spatial Harness Expansion (Post-Core Roadmap)** `future initiative`
+*General-Purpose Multimodal Socratic Tutor for Complex Software*
+* **Thesis**: Once the Socratic dialectic engine achieves clinical mastery in medicine, the underlying pedagogical harness forks to automate and teach high-cognitive-load professional tools:
+  * **3D & CAD**: Socratic spatial guidance directly inside **Blender** and parametric CAD runtimes.
+  * **Video & Design**: Dynamic agentic copilot for **NLE Video Editors** and **Vector Illustration** suites.
+  * **Developer Environments**: Low-latency code review and architectural Socratic pairing embedded in IDEs.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 2. Sovereign Edge Runtimes & Local NPU AI (The Hardware Tier)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### **Sol (`talktosol.app`)** `open source` `android` `litert-lm` `gemma`
+*100% Private, On-Device Cognitive Journal & Companion*
+* **Stack**: Kotlin &bull; Jetpack Compose &bull; Google AI Edge (LiteRT-LM) &bull; Gemma 2B/4B E2B &bull; SQLite Vector Memory &bull; Android Biometrics
+* **Core Mechanism**: Completely offline on-device inference with zero cloud footprint. Features local semantic vector RAG, dynamic token budgeting (2048–4096 tokens), circadian session compression, and fine-grained adaptive thinking styles.
+* **Repository**: [`kush-chou/sol`](https://github.com/kush-chou/sol)
+
+</td>
+<td width="50%" valign="top">
+
+### **Sol Ecosystem Modules** `open source` `edge infra`
+*Weights, Tools, and Cryptographic Standards*
+* **[`sol-models`](https://github.com/kush-chou/sol-models)**: Quantized weights and distribution pipelines optimized for mobile NPUs.
+* **[`sol-cli`](https://github.com/kush-chou/sol-cli)**: Terminal-native inference harness and evaluation runner.
+* **[`sol-privacy`](https://github.com/kush-chou/sol-privacy)**: Specification for zero-telemetry local user data isolation.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 3. Autonomous Namespace Moats & Telephony Rails (The Venture Tier)
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### **LeadDesk** `closed source` `telephony`
+*Autonomous Voice Engine*
+* **Stack**: Gemini Live Multimodal &bull; Telephony SIP Bridge &bull; Low-latency Audio
+* Real-time conversational agent capable of handling autonomous incoming customer inquiries and routing.
+* **Domain**: [`tryleaddesk.com`](https://tryleaddesk.com)
+
+</td>
+<td width="33%" valign="top">
+
+### **SonicReport** `private` `infrastructure`
+*WhatsApp Telemetry Gateway*
+* **Stack**: Headless WhatsApp Pipeline &bull; Python &bull; PDF Generation
+* Zero-touch telemetry and report synthesis mesh for automated data dispatch and client communications.
+* **Repository**: [`kush-chou/sonic-report`](https://github.com/kush-chou/sonic-report)
+
+</td>
+<td width="33%" valign="top">
+
+### **YANGTNT** `open source` `cli`
+*"You Are Not Gonna Need It" AI CLI*
+* **Stack**: Rust / Python &bull; Surgical Diffs
+* Anti-bloat developer tool enforcing extreme simplicity, rapid prototyping, and YAGNI architectural standards.
+* **Domains**: [`yangtnt.com`](https://yangtnt.com) &bull; [`yangtnt.app`](https://yangtnt.app)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏛️ The Software Factory Thesis
+
+Operating as a solo agentic venture syndicate, we reject speculative SaaS burn in favor of **self-funding, self-compounding micro-economics**:
+1. **Namespace Arbitrage & Moats**: Sonnet & Gemini swarms scout high-signal dropping domains, locking down prefix defensive moats (`try`, `get`, `use`) on 5-dollar annual leases.
+2. **3-File Static MVPs**: Rapid deployment of zero-dependency web assets (Tailwind + KaTeX + Cloudflare Edge Workers) designed to hit profitability within 60 days.
+3. **Hardware Sovereignty**: Cloud APIs are treated as temporary scaffolding; production products compile down to on-device NPU weights and local runtimes.
+
+---
+
+## ⚡ Engineering Ethos
+
+* **Karpathy Minimal Diffs**: Strict intolerance for speculative abstractions or bloated PRs. Solve problems surgically at the root cause.
+* **Torvalds Taste**: High-signal data structures over convoluted edge-case branching. Clean, invariant-preserving APIs.
+* **Visual Priming First**: Spatial and anatomical systems must be visually anchored before textual elaboration.
+* **Dialectic Pacing**: Deliver systems and insights incrementally with active alignment checkpoints.
+
+---
+
+## 📬 Contact & Dispatch
+
+* **Web**: [`kushchou.dev`](https://kushchou.dev)
+* **GitHub**: [`@kush-chou`](https://github.com/kush-chou)
+* **Email**: `kushagra26407@gmail.com`
 
 <div align="center">
-  <sub>Engineered & Curated by <b>Kush Chouhan</b> · The Software Factory Syndicate · 2026</sub>
+  <sub>Curated by <b>Kush Chouhan</b> &middot; The Software Factory Syndicate &middot; 2026</sub>
 </div>
